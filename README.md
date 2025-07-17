@@ -46,11 +46,13 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="12" />
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/penttix/penttix/blob/main/pvs.png" alt="PVS-Studio" width="150" height="150">
+  <img src="https://github.com/penttix/penttix/blob/main/pvs.png" alt="PVS-Studio" width="250" height="250">
+  <img width="12" />
 </div>
 
 <div align="center">
