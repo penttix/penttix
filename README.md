@@ -36,7 +36,6 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
 
-  <img src="https://www.pngaaa.com/detail/8783806" height="40" alt="pvs studio logo"  />
 </div>
 
 ###
@@ -48,4 +47,12 @@
 
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/penttix/penttix/blob/main/pvs.png" alt="PVS-Studio" width="150" height="150">
+</div>
+
+<div align="center">
+  <img src="https://github.com/penttix/penttix/blob/main/POGROMIST.png" alt="pogromist">
 </div>
