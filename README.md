@@ -51,7 +51,3 @@
   <img src="https://github.com/penttix/penttix/blob/main/pvs.png" alt="PVS-Studio" width="250" height="250">
 </div>
 
-<div align="center">
-  <img width="12" />
-  <img src="https://github.com/penttix/penttix/blob/main/POGROMIST.png" alt="pogromist">
-</div>
