@@ -1,6 +1,5 @@
 
 <h1 align="center"> hello everyone👋</h1>
-<h1 align="center">😎 penttix 😎</h1>
 
 ###
 
