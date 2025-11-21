@@ -68,9 +68,6 @@
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
-  <img width="12" />
- 
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ### 
@@ -81,13 +78,14 @@
   
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo"  />
   <img width="12" />
+ 
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo"  />
-  <img width="12" />
- 
 </div>
 
 <div align="center"> 
