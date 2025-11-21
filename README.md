@@ -13,10 +13,10 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="react logo"  />
 </div>
 
 ### backend
@@ -88,7 +88,6 @@
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo"  />
   <img width="12" />
  
-  <img src="https://ru.freepik.com/icon/hat_10563927#fromView=search&page=1&position=7&uuid=710f545a-6cda-45c5-855d-dcf0c66bd710" height="40" alt="bluehat logo"  />
 </div>
 
 <div align="center"> 
