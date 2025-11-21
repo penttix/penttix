@@ -1,7 +1,7 @@
 
 <h1 align="center"> hello everyone👋</h1>
 
-### frontend
+### 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="react logo"  />
 </div>
 
-### backend
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 
-### db
+### 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-### bash
+### 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -62,7 +62,7 @@
   <img width="12" />
 </div>
 
-### безопасность 
+###  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img width="12" />
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-### остальное
+### 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
