@@ -4,13 +4,7 @@
 ### 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -88,8 +82,9 @@
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo"  />
 </div>
 
+<br><br><br>
+
 <div align="center" margin=15> 
-  <img height="12" />
   <img src="https://github.com/penttix/penttix/blob/main/pvs.png" alt="PVS-Studio" width="250" height="250">
 </div>
 
