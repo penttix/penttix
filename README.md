@@ -26,7 +26,8 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-
+  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
   <img width="12" />
 
@@ -72,7 +73,11 @@
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
 </div>
 
 ### 
