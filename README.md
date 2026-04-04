@@ -10,6 +10,9 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="react logo"  />
 </div>
 
@@ -23,6 +26,11 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
 </div>
 
 ### 
@@ -35,6 +43,9 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
